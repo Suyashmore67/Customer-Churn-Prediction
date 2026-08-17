@@ -151,9 +151,8 @@ To scale this project to enterprise grade:
 ---
 
 ## 👤 Developer Profile & Contact
-**Developed by [Suyash]**  
+**Developed by [Suyash MORE]**  
 *Looking for Data Scientist / Machine Learning Engineer opportunities.*
 
-* **LinkedIn**: [Your Profile Link Here]
-* **Email**: [Your Email Here]
-* **Portfolio**: [Your Portfolio Website Here]
+* **LinkedIn**: [https://www.linkedin.com/in/suyash-more67]
+* **Email**: [suyashmore6704@gmail.com]
